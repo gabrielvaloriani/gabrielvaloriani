@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn-eaekd.nitrocdn.com/CxTeoSPKdjdqTSxLEEGaKiGroHlKASqH/assets/images/optimized/rev-d765668/wp-content/uploads/2022/08/5429f443d929b6f56e21792899af311a.gif)]
+[![MasterHead]([https://cdn-eaekd.nitrocdn.com/CxTeoSPKdjdqTSxLEEGaKiGroHlKASqH/assets/images/optimized/rev-d765668/wp-content/uploads/2022/08/5429f443d929b6f56e21792899af311a.gif](https://miro.medium.com/v2/resize:fit:786/format:webp/0*L5L-j24Ys3gZKVTU.gif))](http://gabrielvaloriani.io)
 <h1 align="center">Hi 👋, I'm Gabriel Valoriani Franco</h1>
 <h3 align="center">A passionate blockchain developer from Italy</h3> 
 <img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
