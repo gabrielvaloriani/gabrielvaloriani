@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-<hr style="height: 50%">
+<hr style="height: 5px">
