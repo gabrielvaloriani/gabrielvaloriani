@@ -1,10 +1,7 @@
-### Hi there, I'm Gabriel 👋
+## Hi there, I'm Gabriel 👋
 <hr>
 
 
-
-<hr>
-
-#### When it comes to frontend
+### When it comes to frontend
 <hr>
 <img src=""
