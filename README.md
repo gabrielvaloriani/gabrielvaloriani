@@ -5,9 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielvaloriani&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielvaloriani" /> </p>
 
 
-- 📫 How to reach me **gabriel.valoriani@gmail.com**
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
