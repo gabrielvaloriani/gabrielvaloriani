@@ -27,9 +27,6 @@
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio Code" width="40" height="40"/> 
     </a> 
-    <a href="https://metamask.io/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/gabrielvaloriani/gabrielvaloriani/main/icons/metamask.svg" alt="Metamask" width="40" height="40"/> 
-    </a> 
     <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="Solidity" width="40" height="40"/> 
     </a> 
