@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Gabriel 👋
+<hr>
 
-<hr style="  
-height= 3px">
+
+
+<hr>
+
+#### When it comes to frontend
+<hr>
+<img src=""
