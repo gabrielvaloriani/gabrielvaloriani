@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-<hr>
+<hr style="width: 50%">
