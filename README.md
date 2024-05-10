@@ -4,7 +4,7 @@
 <h3 align="center">A passionate blockchain developer from Italy</h3> 
 <h4 align="center">
   I'm discovered the web3 starting with Bitcoin in the late 2021, since than I keept studing for my own on blockchain tecnology and cryptocurrency like ETH and so on.<br>
-  <br> In the late july 2023 just after get gradueted from high school I started a master to be a blockchain developer in Start2Impact (an italian startup in education on digital jobs), currently attending to finish it (hopefully) this year and start coding for work.<br>
+  <br> In the late july 2023 just after get gradueted from high school I started a master to be a blockchain developer in Start2Impact (an italian startup in education on digital jobs), currently attending to finish it this year and start coding for work.<br>
   <br> My second big passion is trading and all the world about stock market, personal finance and passive / active investing. Love read and watch video about it!
 </h4> 
 
